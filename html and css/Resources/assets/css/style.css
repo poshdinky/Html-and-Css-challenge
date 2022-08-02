@@ -1,0 +1,53 @@
+body{
+    background-color: #ededed !important;
+}
+.mybtn{
+    color: white;
+    background-color: #4aaaa5;
+    text-decoration: none;
+    padding: 0.5rem;
+    font-size: 25px;
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.navbar-nav {
+    position: absolute;right: 1%;
+ }
+.navbar{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.mydiv{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.myhead{
+/*     padding-top: 50px;
+ */    color: #4aaaa5;
+    letter-spacing: 1;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.mycol{
+    margin-top: 45px !important;
+}
+.myhr{
+    color: #4aaaa5;
+}
+.myh4{
+    color: #4aaaa5;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.myimage{
+    border: 2px solid #000;
+    box-sizing: border-box;
+
+}
+
+@media only screen and (max-width: 760px) {
+    #nav{
+        background-color: #4aaaa5 !important;
+    }
+  }
